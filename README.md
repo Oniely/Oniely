@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oniely&label=Profile%20views&color=0e75b6&style=flat" alt="oniely" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
-
 - 👨‍💻 All of my projects are available at [https://oniely.github.io/me/](https://oniely.github.io/me/)
 
 - 📫 How to reach me **jabagatniel09@gmail.com**
