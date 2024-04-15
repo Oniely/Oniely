@@ -1,9 +1,7 @@
 <br clear="both">
 
-<h3 align="center">Hello👋! I'm Niel</h3>
-
+<h2 align="center">Hello👋! I'm Niel</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oniely&label=Profile%20views&color=0e75b6&style=flat" alt="oniely" /> </p>
-
 ###
 
 <br clear="both">
