@@ -1,10 +1,12 @@
 <br clear="both">
 
 <h2 align="center">Hello👋! I'm Niel</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oniely&label=Profile%20views&color=0e75b6&style=flat" alt="oniely" /> </p>
+
+###
+
 <br clear="both">
 
-<img align="right" height="180" src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif"  />
 
 ###
 
@@ -43,7 +45,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/31u22yvhtoqoyt22mb5le3s72ela">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31u22yvhtoqoyt22mb5le3s72ela&count=1&unique=true" alt="Spotify recently played"  />
   </a>
