@@ -2,9 +2,6 @@
 
 <h2 align="center">Hello👋! I'm Niel</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oniely&label=Profile%20views&color=0e75b6&style=flat" alt="oniely" /> </p>
-
-###
-
 <br clear="both">
 
 <img align="right" height="180" src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif"  />
